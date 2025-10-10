@@ -1,7 +1,7 @@
 # EX.1
--sviluppatore a: assegnato al menù pizze
--sviluppatore b: assegnato al menù dolci
--sviluppatore c: assegnato al menù bevande
+-sviluppatore Davide Mancinelli: assegnato al menù pizze
+-sviluppatore Filippo Carovillano: assegnato al menù dolci
+-sviluppatore Francesco Mari: assegnato al menù bevande
 
 
 
